@@ -1,4 +1,4 @@
-## Gopi Srinivasan
+# Gopi Srinivasan
 
 ### Full Stack Automation Architect | Lead Automation Engieer in Logiech | Cypress | Ranorex | Selenium | WebDriverIO | UFT / QTP | Protractor | Jenkins | Bitbucket | RestAPI | JIRA | ALM | Angular | ReactJS |
 
@@ -19,3 +19,4 @@ Architecting frameworks for Web, Windows, Mobile (Native and Hybrid), and Web se
 
 Specialties: Automation Framework Design and Development (Not limited to tools)
 Domain knowledge in Securities, Asset Management, Visual Plus, Credit Card, Insurance, and Logistics. 
+________________________________________________________________________________________________________________________________________________________________
