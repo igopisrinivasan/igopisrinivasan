@@ -1,16 +1,21 @@
-### Hi there 👋
+## Gopi Srinivasan
 
-<!--
-**igopisrinivasan/igopisrinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Automation Architect | Lead Automation Engieer in Logiech | Cypress | Ranorex | Selenium | WebDriverIO | UFT / QTP | Protractor | Jenkins | Bitbucket | RestAPI | JIRA | ALM | Angular | ReactJS |
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Having 11 Years of Automation Experience in various Automation Tools and Frameworks for API, .NET UI, Java, Mainframe, flat files, SQL, NO-SQL databases, web, and micro-services.
+
+As a Stack Automation architect, taken a lot of initiative to find automation opportunities in different functional projects and presented various best practices for different technologies and testing types.
+
+Desktop: UFT, QTP, Ranorex, and TestComplete.
+Web: Selenium, Cucumber, Protractor, TestProject, Cypress, Puppeteer, WebdriverIO, and Serenity.
+Mobile: Appium and Perfecto
+Languages: C#, Java, Powershell, VBScript, Javascript, Typescript
+Misc Tools: AxiosJs, Rest-assured, Sahi Pro, Postman
+Concepts: BDD, TDD, Parallel, and Async Programming, Entity Framework, Damper.
+
+Architecting frameworks for Web, Windows, Mobile (Native and Hybrid), and Web services-based applications along with TDD with Protractor, Cypress, and Ranorex implementation in the current assignment.
+
+Specialties: Automation Framework Design and Development (Not limited to tools)
+Domain knowledge in Securities, Asset Management, Visual Plus, Credit Card, Insurance, and Logistics. 
